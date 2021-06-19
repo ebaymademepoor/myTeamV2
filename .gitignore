@@ -1,0 +1,12 @@
+*.sqlite3
+*.pyc
+.~c9
+env.py
+.vscode/
+myTeamV2/Include
+myTeamV2/Lib
+myTeam/V2Scripts
+myTeamV2/__pycache__/
+myTeamV2/pyvenv.cfg
+.env
+myTeamEnv/
